@@ -28,7 +28,7 @@
 1. baixe o repositório na pasta de sua escolha
 
     ```bash
-    git clone <link>
+    git clone https://github.com/fgmarcal/crud01.git
 
 2. instale as dependências
 
