@@ -18,4 +18,9 @@
 - Typescript
 - Prisma
 - Fastify
+- Sqlite
+
+## Arquivo .env
+- crie um arquivo .env na pasta mãe com os dados abaixo:
+    - DATABASE_URL="file:./dev.db"
 
